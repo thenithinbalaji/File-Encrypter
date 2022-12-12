@@ -1,0 +1,8 @@
+# general files
+venv
+.vscode
+
+# nithin files
+temp
+folder
+key.json
